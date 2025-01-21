@@ -71,14 +71,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # react-quiz-app
 A feature-rich quiz application that challenges users with engaging questions, tracks scores, and supports dynamic leaderboards. Built with React and customizable for various use cases, the app provides an interactive learning and gaming experience.
 
-!([](https://github.com/Zealicon/react-quiz-app/blob/main/Screenshot%202025-01-21%20231609.png?raw=true)
+![](https://github.com/Zealicon/react-quiz-app/blob/main/Screenshot%202025-01-21%20231609.png?raw=true)
 
-!([](https://github.com/Zealicon/react-quiz-app/blob/main/Screenshot%202025-01-21%20231933.png?raw=true)
+![](https://github.com/Zealicon/react-quiz-app/blob/main/Screenshot%202025-01-21%20231933.png?raw=true)
 
-!([](https://github.com/Zealicon/react-quiz-app/blob/main/Screenshot%202025-01-21%20232017.png?raw=true)
+![](https://github.com/Zealicon/react-quiz-app/blob/main/Screenshot%202025-01-21%20232017.png?raw=true)
 
-!([](https://github.com/Zealicon/react-quiz-app/blob/main/Screenshot%202025-01-21%20232100.png?raw=true)
+![](https://github.com/Zealicon/react-quiz-app/blob/main/Screenshot%202025-01-21%20232100.png?raw=true)
 
-!([](https://github.com/Zealicon/react-quiz-app/blob/main/Screenshot%202025-01-21%20232144.png?raw=true)
+![](https://github.com/Zealicon/react-quiz-app/blob/main/Screenshot%202025-01-21%20232144.png?raw=true)
 
-
+!
