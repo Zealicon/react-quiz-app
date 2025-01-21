@@ -70,3 +70,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # react-quiz-app
 A feature-rich quiz application that challenges users with engaging questions, tracks scores, and supports dynamic leaderboards. Built with React and customizable for various use cases, the app provides an interactive learning and gaming experience.
+
+(https://github.com/user-attachments/assets/5d391146-b1b6-48d0-972b-aaf315447881)
+
+
