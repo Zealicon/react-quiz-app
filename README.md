@@ -81,5 +81,5 @@ A feature-rich quiz application that challenges users with engaging questions, t
 
 !([URL](https://github.com/Zealicon/react-quiz-app/blob/main/Screenshot%202025-01-21%20232144.png?raw=true))
 
-
+https://github.com/Zealicon/react-quiz-app/blob/main/Screenshot%202025-01-21%20231609.png?raw=true
 
