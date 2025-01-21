@@ -25,6 +25,7 @@ const App = () => {
 
   const startGame = () => {
     setGameStarted(true);
+    console.log("multiplayer");
   };
 
 
